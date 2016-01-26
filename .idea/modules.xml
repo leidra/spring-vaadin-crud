@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-vaadin-crud.iml" filepath="$PROJECT_DIR$/spring-vaadin-crud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-vaadin-crud-backend/spring-vaadin-crud-backend.iml" filepath="$PROJECT_DIR$/spring-vaadin-crud-backend/spring-vaadin-crud-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-vaadin-crud-production/spring-vaadin-crud-production.iml" filepath="$PROJECT_DIR$/spring-vaadin-crud-production/spring-vaadin-crud-production.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-vaadin-crud-ui/spring-vaadin-crud-ui.iml" filepath="$PROJECT_DIR$/spring-vaadin-crud-ui/spring-vaadin-crud-ui.iml" />
+    </modules>
+  </component>
+</project>
